@@ -1,0 +1,62 @@
+{
+  "people": [
+    {
+      "name": "Maria Silva",
+      "age": 30,
+      "addresses": [
+        {
+          "address": "Rua das Flores, 100",
+          "city": "São Paulo",
+          "zip": "01234-567"
+        },
+        {
+          "address": "Avenida Paulista, 2000",
+          "city": "São Paulo",
+          "zip": "09876-543"
+        }
+      ],
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "Web Development"
+      ]
+    },
+    {
+      "name": "João Pereira",
+      "age": 35,
+      "addresses": [
+        {
+          "address": "Rua dos Pinheiros, 300",
+          "city": "Rio de Janeiro",
+          "zip": "21098-765"
+        }
+      ],
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "Microservices"
+      ]
+    },
+    {
+      "name": "Ana Santos",
+      "age": 28,
+      "addresses": [
+        {
+          "address": "Avenida Atlântica, 4000",
+          "city": "Rio de Janeiro",
+          "zip": "65432-109"
+        },
+        {
+          "address": "Rua das Orquídeas, 500",
+          "city": "Belo Horizonte",
+          "zip": "87654-321"
+        }
+      ],
+      "skills": [
+        "JavaScript",
+        "React",
+        "Node.js"
+      ]
+    }
+  ]
+}
